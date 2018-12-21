@@ -1,4 +1,4 @@
-module github.com/cpuguy83/go-md2man
+module github.com/kubeteam/go-md2man
 
 require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
